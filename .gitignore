@@ -1,0 +1,8 @@
+*.pyc
+build/
+dist/
+pyacdc.egg-info/
+virtenv/
+data/
+requirements.txt
+pyacdc/api_key.py
